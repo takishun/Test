@@ -1,0 +1,134 @@
+2024-01-31 13:02:02,432:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:02:02,432:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:02:02,432:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:02:02,432:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:02:04,714:INFO:PyCaret ClassificationExperiment
+2024-01-31 13:02:04,714:INFO:Logging name: clf-default-name
+2024-01-31 13:02:04,714:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-01-31 13:02:04,714:INFO:version 3.2.0
+2024-01-31 13:02:04,714:INFO:Initializing setup()
+2024-01-31 13:02:04,714:INFO:self.USI: 1e43
+2024-01-31 13:02:04,714:INFO:self._variable_keys: {'target_param', 'exp_name_log', 'USI', 'exp_id', 'idx', 'fix_imbalance', 'fold_generator', 'gpu_n_jobs_param', 'gpu_param', 'memory', '_ml_usecase', 'pipeline', 'data', 'is_multiclass', 'html_param', 'X', 'y', 'seed', 'X_train', 'y_train', '_available_plots', 'y_test', 'log_plots_param', 'X_test', 'logging_param', 'n_jobs_param', 'fold_groups_param', 'fold_shuffle_param'}
+2024-01-31 13:02:04,714:INFO:Checking environment
+2024-01-31 13:02:04,714:INFO:python_version: 3.9.6
+2024-01-31 13:02:04,714:INFO:python_build: ('default', 'Aug 18 2021 12:38:10')
+2024-01-31 13:02:04,714:INFO:machine: x86_64
+2024-01-31 13:02:04,714:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2024-01-31 13:02:04,714:INFO:Memory: svmem(total=17179869184, available=1659101184, percent=90.3, used=2032762880, free=69328896, active=1592250368, inactive=1582460928, wired=440512512)
+2024-01-31 13:02:04,714:INFO:Physical Core: 8
+2024-01-31 13:02:04,714:INFO:Logical Core: 8
+2024-01-31 13:02:04,714:INFO:Checking libraries
+2024-01-31 13:02:04,714:INFO:System:
+2024-01-31 13:02:04,714:INFO:    python: 3.9.6 (default, Aug 18 2021, 12:38:10)  [Clang 10.0.0 ]
+2024-01-31 13:02:04,714:INFO:executable: /opt/anaconda3/envs/prtenv/bin/python
+2024-01-31 13:02:04,714:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2024-01-31 13:02:04,714:INFO:PyCaret required dependencies:
+2024-01-31 13:04:28,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:04:28,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:04:28,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:04:28,119:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-01-31 13:04:28,373:INFO:PyCaret ClassificationExperiment
+2024-01-31 13:04:28,373:INFO:Logging name: clf-default-name
+2024-01-31 13:04:28,373:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-01-31 13:04:28,373:INFO:version 3.2.0
+2024-01-31 13:04:28,373:INFO:Initializing setup()
+2024-01-31 13:04:28,373:INFO:self.USI: 5581
+2024-01-31 13:04:28,373:INFO:self._variable_keys: {'pipeline', '_ml_usecase', 'data', 'gpu_param', 'gpu_n_jobs_param', 'n_jobs_param', 'seed', '_available_plots', 'fold_groups_param', 'html_param', 'X', 'fold_generator', 'idx', 'USI', 'log_plots_param', 'logging_param', 'target_param', 'is_multiclass', 'y_test', 'y', 'exp_name_log', 'X_train', 'X_test', 'fix_imbalance', 'exp_id', 'y_train', 'fold_shuffle_param', 'memory'}
+2024-01-31 13:04:28,373:INFO:Checking environment
+2024-01-31 13:04:28,373:INFO:python_version: 3.9.6
+2024-01-31 13:04:28,373:INFO:python_build: ('default', 'Aug 18 2021 12:38:10')
+2024-01-31 13:04:28,373:INFO:machine: x86_64
+2024-01-31 13:04:28,373:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2024-01-31 13:04:28,373:INFO:Memory: svmem(total=17179869184, available=1641160704, percent=90.4, used=2048126976, free=51105792, active=1594208256, inactive=1572581376, wired=453918720)
+2024-01-31 13:04:28,373:INFO:Physical Core: 8
+2024-01-31 13:04:28,373:INFO:Logical Core: 8
+2024-01-31 13:04:28,373:INFO:Checking libraries
+2024-01-31 13:04:28,373:INFO:System:
+2024-01-31 13:04:28,373:INFO:    python: 3.9.6 (default, Aug 18 2021, 12:38:10)  [Clang 10.0.0 ]
+2024-01-31 13:04:28,373:INFO:executable: /opt/anaconda3/envs/prtenv/bin/python
+2024-01-31 13:04:28,373:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2024-01-31 13:04:28,373:INFO:PyCaret required dependencies:
+2024-01-31 13:04:28,375:INFO:                 pip: 23.3.1
+2024-01-31 13:04:28,375:INFO:          setuptools: 68.2.2
+2024-01-31 13:04:28,375:INFO:             pycaret: 3.2.0
+2024-01-31 13:04:28,375:INFO:             IPython: 8.18.1
+2024-01-31 13:04:28,375:INFO:          ipywidgets: 8.1.1
+2024-01-31 13:04:28,375:INFO:                tqdm: 4.66.1
+2024-01-31 13:04:28,375:INFO:               numpy: 1.25.2
+2024-01-31 13:04:28,375:INFO:              pandas: 1.5.3
+2024-01-31 13:04:28,375:INFO:              jinja2: 3.1.3
+2024-01-31 13:04:28,375:INFO:               scipy: 1.10.1
+2024-01-31 13:04:28,375:INFO:              joblib: 1.3.2
+2024-01-31 13:04:28,375:INFO:             sklearn: 1.2.2
+2024-01-31 13:04:28,375:INFO:                pyod: 1.1.2
+2024-01-31 13:04:28,375:INFO:            imblearn: 0.12.0
+2024-01-31 13:04:28,375:INFO:   category_encoders: 2.6.3
+2024-01-31 13:04:28,375:INFO:            lightgbm: Not installed
+2024-01-31 13:04:28,375:INFO:               numba: 0.58.1
+2024-01-31 13:04:28,375:INFO:            requests: 2.31.0
+2024-01-31 13:04:28,375:INFO:          matplotlib: 3.6.0
+2024-01-31 13:04:28,375:INFO:          scikitplot: 0.3.7
+2024-01-31 13:04:28,375:INFO:         yellowbrick: 1.5
+2024-01-31 13:04:28,375:INFO:              plotly: 5.18.0
+2024-01-31 13:04:28,375:INFO:    plotly-resampler: Not installed
+2024-01-31 13:04:28,375:INFO:             kaleido: 0.2.1
+2024-01-31 13:04:28,375:INFO:           schemdraw: 0.15
+2024-01-31 13:04:28,375:INFO:         statsmodels: 0.14.1
+2024-01-31 13:04:28,375:INFO:              sktime: 0.21.1
+2024-01-31 13:04:28,375:INFO:               tbats: 1.1.3
+2024-01-31 13:04:28,375:INFO:            pmdarima: 2.0.4
+2024-01-31 13:04:28,375:INFO:              psutil: 5.9.8
+2024-01-31 13:04:28,375:INFO:          markupsafe: 2.1.4
+2024-01-31 13:04:28,375:INFO:             pickle5: Not installed
+2024-01-31 13:04:28,375:INFO:         cloudpickle: 3.0.0
+2024-01-31 13:04:28,375:INFO:         deprecation: 2.1.0
+2024-01-31 13:04:28,375:INFO:              xxhash: 3.4.1
+2024-01-31 13:04:28,375:INFO:           wurlitzer: 3.0.3
+2024-01-31 13:04:28,375:INFO:PyCaret optional dependencies:
+2024-01-31 13:04:28,384:INFO:                shap: Not installed
+2024-01-31 13:04:28,384:INFO:           interpret: Not installed
+2024-01-31 13:04:28,384:INFO:                umap: Not installed
+2024-01-31 13:04:28,384:INFO:     ydata_profiling: Not installed
+2024-01-31 13:04:28,384:INFO:  explainerdashboard: Not installed
+2024-01-31 13:04:28,384:INFO:             autoviz: Not installed
+2024-01-31 13:04:28,384:INFO:           fairlearn: Not installed
+2024-01-31 13:04:28,384:INFO:          deepchecks: Not installed
+2024-01-31 13:04:28,384:INFO:             xgboost: Not installed
+2024-01-31 13:04:28,384:INFO:            catboost: Not installed
+2024-01-31 13:04:28,384:INFO:              kmodes: Not installed
+2024-01-31 13:04:28,384:INFO:             mlxtend: 0.23.1
+2024-01-31 13:04:28,384:INFO:       statsforecast: Not installed
+2024-01-31 13:04:28,384:INFO:        tune_sklearn: Not installed
+2024-01-31 13:04:28,384:INFO:                 ray: Not installed
+2024-01-31 13:04:28,384:INFO:            hyperopt: Not installed
+2024-01-31 13:04:28,384:INFO:              optuna: Not installed
+2024-01-31 13:04:28,384:INFO:               skopt: Not installed
+2024-01-31 13:04:28,384:INFO:              mlflow: Not installed
+2024-01-31 13:04:28,384:INFO:              gradio: Not installed
+2024-01-31 13:04:28,384:INFO:             fastapi: Not installed
+2024-01-31 13:04:28,384:INFO:             uvicorn: Not installed
+2024-01-31 13:04:28,384:INFO:              m2cgen: Not installed
+2024-01-31 13:04:28,384:INFO:           evidently: Not installed
+2024-01-31 13:04:28,384:INFO:               fugue: Not installed
+2024-01-31 13:04:28,384:INFO:           streamlit: Not installed
+2024-01-31 13:04:28,384:INFO:             prophet: Not installed
+2024-01-31 13:04:28,384:INFO:None
+2024-01-31 13:04:28,384:INFO:Set up data.
+2024-01-31 13:04:28,390:INFO:Set up folding strategy.
+2024-01-31 13:04:28,390:INFO:Set up train/test split.
+2024-01-31 13:04:28,394:INFO:Set up index.
+2024-01-31 13:04:28,394:INFO:Assigning column types.
+2024-01-31 13:04:28,396:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2024-01-31 13:04:28,433:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2024-01-31 13:04:28,435:INFO:Engine for model 'rbfsvm' has not been set explicitly, hence returning None.
+2024-01-31 13:04:28,461:WARNING:
+'xgboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install xgboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
